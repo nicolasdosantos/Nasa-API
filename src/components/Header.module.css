@@ -1,0 +1,11 @@
+.header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header img{
+    height: 60px;
+    margin: 5px;
+}

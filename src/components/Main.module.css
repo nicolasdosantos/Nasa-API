@@ -11,9 +11,9 @@
 
 .banner button{
     border-radius: 0px 20px 20px 0px;
-    padding: 8.5px;
+    padding: 8px;
     border: none;
-    background-color: #0B3D91;
+    background-color: #28204A;
     color: white;
     font-family: 'Reem Kufi', sans-serif;
 }
@@ -85,3 +85,5 @@
     font-size: 25px;
     font-family: 'Reem Kufi', sans-serif;
 }
+
+

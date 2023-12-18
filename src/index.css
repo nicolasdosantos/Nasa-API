@@ -17,5 +17,14 @@ code {
 }
 
 .swal2-title {
-  color: red;
+  color: black;
+}
+
+.swal2-popup.swal2-modal.swal2-show{
+  border: 7px solid #28204A;
+  border-radius: 25px;
+}
+
+.swal2-popup.swal2-modal.swal2-show button{
+  background-color: #28204A;
 }

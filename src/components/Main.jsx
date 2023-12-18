@@ -20,9 +20,11 @@ function Main(){
 
             if(resposta1.collection.items.length > 0) {
                 setBusca(resposta1.collection.items)
+                setErro("")
             }
             else {
                 setErro("Não encontrado")
+                setBusca([])
             }
 
 

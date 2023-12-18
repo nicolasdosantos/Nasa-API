@@ -11,20 +11,18 @@ function Header(){
                         <i className="fa-solid fa-house"></i>          Home
                     </button>
                 </Link>
+                <Link to={"/desc"}>
+                    <button>
+                        <i className="fa-solid fa-book"></i>       Instruções
+                    </button>
+                </Link>
                 <Link to={"/explorar"}>
                     <button>
                         <i className="fa-solid fa-magnifying-glass"></i>           Explorar
                     </button>
                 </Link>
-                <Link to={"/desc"}>
-                    <button>
-                        <i className="fa-solid fa-book"></i>       Descrição
-                    </button>
-                </Link>
             </nav>
         </div>
-
-
     )
 }
 
